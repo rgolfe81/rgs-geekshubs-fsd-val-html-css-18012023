@@ -1,0 +1,13 @@
+table{
+    border: solid black 1px;
+    border-collapse: collapse;
+}
+th{
+    background-color: grey;
+}
+th:hover{
+    background-color: blue;
+}
+td{
+    border: solid black 1px;
+}
